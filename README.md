@@ -1,9 +1,4 @@
 
----
-
-### 📌 Chess   
-
----
 
 ## ♟️ Overview  
 ** C++ chess engine** with complete game logic.
