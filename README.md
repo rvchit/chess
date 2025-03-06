@@ -1,7 +1,7 @@
 
 
 ## ♟️ Overview  
-** C++ chess engine** with complete game logic.
+C++ chess engine with complete game logic.
 ---
 
 
